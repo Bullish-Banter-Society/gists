@@ -1,0 +1,6 @@
+pandas~=2.2.0
+yfinance~=0.2.35
+requests~=2.31.0
+numpy>=1.20.0,<2.0.0
+matplotlib~=3.8.2
+pmdarima>=2.0.4,<3.0.0
